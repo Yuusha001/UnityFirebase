@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417295807470",
+    "project_id": "fir-tutorial-54a09",
+    "storage_bucket": "fir-tutorial-54a09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417295807470:android:982dbfd515d4c4e5ca94ff",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FireBase_Testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417295807470-q4dr4uhl4fkc216qtpf50h5r0hijjo2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATbKvI0HwtXdoXvdjTBe4lCDihgOIJhzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417295807470-q4dr4uhl4fkc216qtpf50h5r0hijjo2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
